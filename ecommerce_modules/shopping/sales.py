@@ -1,3 +1,5 @@
+print('sales initialized. __name__=', __name__)
+
 def calc_tax():
     print('calculating tax')
 
