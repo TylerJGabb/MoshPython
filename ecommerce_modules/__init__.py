@@ -1,1 +1,0 @@
-print('ecommerce_modules initialized. __name__=', __name__)

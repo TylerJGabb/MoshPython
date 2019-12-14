@@ -1,0 +1,1 @@
+print('ecommerce module initialized. __name__=', __name__)

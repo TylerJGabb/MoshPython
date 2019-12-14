@@ -1,0 +1,1 @@
+print("shopping module initialized. __name__=", __name__)
