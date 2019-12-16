@@ -1,0 +1,1 @@
+print(f"popupar_python_packages initialized, __name__={__name__}")
